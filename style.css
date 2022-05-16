@@ -1,0 +1,13 @@
+h1 {
+    margin: 10px 50px;
+}
+
+li:hover {
+    cursor: pointer;
+}
+.crossed {
+    text-decoration: line-through;
+}
+.del{
+    margin: 0px 5px;
+}
